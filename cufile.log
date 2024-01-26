@@ -1,0 +1,18 @@
+ 26-01-2024 17:41:04:185 [pid=5524 tid=5524] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 26-01-2024 17:41:04:185 [pid=5524 tid=5524] NOTICE  cufio-drv:720 running in compatible mode
+ 26-01-2024 17:41:04:185 [pid=5524 tid=5524] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:0a:00.0/resource No such file or directory
+ 26-01-2024 17:41:04:185 [pid=5524 tid=5524] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 3090: Model Not Supported
+ 26-01-2024 17:41:04:185 [pid=5524 tid=5524] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:0a:00.0
+ 26-01-2024 17:41:04:325 [pid=5524 tid=5524] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 26-01-2024 17:42:12:974 [pid=5872 tid=5872] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 26-01-2024 17:42:12:974 [pid=5872 tid=5872] NOTICE  cufio-drv:720 running in compatible mode
+ 26-01-2024 17:42:12:974 [pid=5872 tid=5872] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:0a:00.0/resource No such file or directory
+ 26-01-2024 17:42:12:974 [pid=5872 tid=5872] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 3090: Model Not Supported
+ 26-01-2024 17:42:12:974 [pid=5872 tid=5872] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:0a:00.0
+ 26-01-2024 17:42:13:112 [pid=5872 tid=5872] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 26-01-2024 17:48:32:863 [pid=7097 tid=7097] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 26-01-2024 17:48:32:863 [pid=7097 tid=7097] NOTICE  cufio-drv:720 running in compatible mode
+ 26-01-2024 17:48:32:863 [pid=7097 tid=7097] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:0a:00.0/resource No such file or directory
+ 26-01-2024 17:48:32:863 [pid=7097 tid=7097] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 3090: Model Not Supported
+ 26-01-2024 17:48:32:863 [pid=7097 tid=7097] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:0a:00.0
+ 26-01-2024 17:48:33:2 [pid=7097 tid=7097] ERROR  cufio-topo-udev:431 no device entries present in platform topology
