@@ -1,3 +1,8 @@
 # Ignore .venv directory
 .venv/*
 !.venv/pyvenv.cfg
+
+
+# Ignore conda environment
+.conda/*
+!.conda/environment.yml
